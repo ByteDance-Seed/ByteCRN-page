@@ -1,0 +1,1 @@
+{"id": "s0003", "smiles": "C=C.O", "n_conformers": 2, "conformers": [{"name": "conf_000", "energy": null, "mol_url": "data/CCO/species/s0003/s0003_conf_000.mol"}, {"name": "conf_001", "energy": 0.044635131564653055, "mol_url": "data/CCO/species/s0003/s0003_conf_001.mol"}], "image_url": "data/CCO/species/s0003/s0003.png", "mol_url": "data/CCO/species/s0003/s0003.mol"}

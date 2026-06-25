@@ -1,0 +1,1 @@
+{"id": "s0158", "smiles": "C=O.C=O.C=O", "n_conformers": 2, "conformers": [{"name": "conf_000", "energy": null, "mol_url": "data/KHP/species/s0158/s0158_conf_000.mol"}, {"name": "conf_001", "energy": null, "mol_url": "data/KHP/species/s0158/s0158_conf_001.mol"}], "image_url": "data/KHP/species/s0158/s0158.png", "mol_url": "data/KHP/species/s0158/s0158.mol"}
