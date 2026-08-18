@@ -3,7 +3,7 @@
 Companion website for **ByteCRN**, a unified generative framework for scalable
 chemical reaction network exploration.
 
-- Live site: https://bytecrn.github.io/
+- Live site: https://bytedance-seed.github.io/ByteCRN-page/
 - Paper: https://arxiv.org/abs/2606.21002
 
 This repository contains the built static site only.
